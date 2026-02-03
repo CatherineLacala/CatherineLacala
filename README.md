@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CatherineLacala
 - 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning C++ at UIC
+- 🌱 I’m a junior Software Engineering major at UIC
 - 😄 Pronouns: she/her
 
 
