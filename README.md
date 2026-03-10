@@ -29,7 +29,7 @@ Git/GitHub • Linux/Unix • VS Code • Eclipse • Unity
 
 Overview of my software projects, including descriptions of private repositories and technical implementations.
 
-## 🔒 Note on Repositories:
+## 🔒 Note on Repositories
 
 Many of my academic and collaborative projects are private repositories due to coursework policies or team ownership.
 
