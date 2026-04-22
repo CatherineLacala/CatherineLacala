@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Catherine!
 
-🎓 Computer Science student at the University of Illinois at Chicago (B.S. expected May 2027)
+🎓 Computer Science student at the University of Illinois Chicago (B.S. expected May 2027)
 
 📍 Chicago, IL
 
