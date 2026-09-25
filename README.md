@@ -30,7 +30,7 @@ HTML • CSS • Google Apps Script • Full-Stack Development • Client-Server
 
 **Tools & Technologies:**
 
-Git/GitHub • Linux/Unix • VS Code • Eclipse • Unity
+Git/GitHub • Linux/Unix • VS Code • Eclipse • Unity • Jira
 
 <br>
 
